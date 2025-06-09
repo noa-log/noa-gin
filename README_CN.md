@@ -1,7 +1,7 @@
 # Noa Gin
 Noa Log 的 Gin 集成模块，可以快读的将 Noa 集成到 Gin 框架中。
 
-# 安装
+## 安装
 ```bash
 go get -u github.com/noa-log/noa-gin
 ```
