@@ -1,7 +1,7 @@
 /*
  * @Author: nijineko
  * @Date: 2025-06-09 13:08:32
- * @LastEditTime: 2025-06-09 13:45:41
+ * @LastEditTime: 2025-06-11 11:59:24
  * @LastEditors: nijineko
  * @Description: noa gin handle
  * @FilePath: \noa-gin\handle.go
@@ -16,7 +16,7 @@ import (
 	"github.com/noa-log/noa"
 )
 
-const (
+var (
 	DEFAULT_LOG_SOURCE = "Gin"
 )
 
