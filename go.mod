@@ -5,7 +5,7 @@ go 1.24.2
 require (
 	github.com/gin-gonic/gin v1.10.1
 	github.com/noa-log/colorize v1.0.1
-	github.com/noa-log/noa v1.0.1
+	github.com/noa-log/noa v1.0.2
 )
 
 require (
